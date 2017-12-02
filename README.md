@@ -1,4 +1,4 @@
-prerender-redis-cache
+prerender-redis-cache for prerender 5.0 chrome headless
 =======================
 
 Prerender plugin for Redis caching, to be used with the prerender node application from https://github.com/prerender/prerender.
